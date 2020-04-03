@@ -16,5 +16,8 @@
     "nyc": "^15.0.0",
     "ts-node": "^8.6.2",
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "fast-sort": "^2.1.1"
   }
 }
